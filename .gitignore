@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# ML / Model Artifacts
+artifacts/
+*.h5
+*.pkl
+*.pt
+
+# Data
+data/
+
+# Environment
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
