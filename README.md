@@ -144,7 +144,7 @@ Deployment on cloud (Render / Vercel)
 👩‍💻 Authors
 Srikari Kuppa , Sriramoju Vyshnavi, B.Nandini
 B.Tech – Information Technology students
-AI & ML Enthusiast
+(AI & ML Enthusiasts)
 
 📄 License
 This project is for academic and learning purposes.
