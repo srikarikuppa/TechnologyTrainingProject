@@ -142,7 +142,8 @@ Persistent energy history storage
 Deployment on cloud (Render / Vercel)
 
 👩‍💻 Authors
-Srikari Kuppa , Sriramoju Vyshnavi, B.Nandini
+Srikari Kuppa, Sriramoju Vyshnavi, B.Nandini
+
 B.Tech – Information Technology Students
 (AI & ML Enthusiasts)
 
