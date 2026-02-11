@@ -141,9 +141,9 @@ User authentication
 Persistent energy history storage
 Deployment on cloud (Render / Vercel)
 
-👩‍💻 Author
-Srikari Kuppa
-B.Tech – Information Technology
+👩‍💻 Authors
+Srikari Kuppa , Sriramoju Vyshnavi, B.Nandini
+B.Tech – Information Technology students
 AI & ML Enthusiast
 
 📄 License
