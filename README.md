@@ -56,20 +56,28 @@ POST /predict
 ### Backend:
 
 Validates input
+
 Scales data
+
 Feeds into pre-trained LSTM model
+
 Generates prediction
+
 Returns structured JSON response
 
 ### Frontend:
 
 Displays prediction
+
 Renders trend graphs
+
 Calculates peak vs off-peak usage
+
 Shows AI recommendations
 
 
 ## 📡 API Endpoint
+
 POST /predict
 Request Body
 {
@@ -84,31 +92,50 @@ Response
 }
 
 ## 🛠️ Tech Stack
+
 ### Frontend
+
 React
+
 TypeScript
+
 Vite
+
 Tailwind CSS
+
 Recharts
 
 ### Backend
+
 Python
+
 Flask
+
 TensorFlow / Keras (LSTM)
+
 NumPy
+
 Scikit-learn (scaling)
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
+
 git clone https://github.com/srikarikuppa/TechnologyTrainingProject.git
+
 cd TechnologyTrainingProject
 
 2️⃣ Backend Setup
+
 cd backend
+
 python -m venv venv
+
 venv\Scripts\activate   # Windows
+
 pip install -r requirements.txt
+
 python app.py
 
 Backend runs at:
@@ -127,18 +154,27 @@ http://localhost:5173
 ## 📌 Key Design Principles
 
 Frontend-first API design
+
 Strict input validation
+
 No retraining of model in production
+
 Clean separation of ML logic from UI
+
 Explainable predictions
+
 Predictable backend responses
 
 ## 📈 Future Improvements
 
 Multi-hour forecasting
+
 Model confidence intervals
+
 User authentication
+
 Persistent energy history storage
+
 Deployment on cloud (Render / Vercel)
 
 👩‍💻 Authors:
