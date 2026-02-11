@@ -118,7 +118,8 @@ NumPy
 Scikit-learn (scaling)
 
 
-⚙️ Installation & Setup
+
+## ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
 
