@@ -178,6 +178,10 @@ Persistent energy history storage
 
 Deployment on cloud (Render / Vercel)
 
+Integration of Real-Time Input using IoT Device --- Smart Energy Meter
+
+Real-Time Optimization based on the input taken from Smart Energy Meter
+
 
 
 
