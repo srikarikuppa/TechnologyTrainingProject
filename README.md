@@ -1,4 +1,4 @@
-# TechnologyTrainingProject
+# Batch 9 - TechnologyTrainingProject
 ## Smart Energy Consumption Prediction and Optimization
 
 ## ⚡ Smart Energy Consumption Prediction Dashboard
